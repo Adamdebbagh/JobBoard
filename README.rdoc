@@ -1,7 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Job Board Application for Uopeople Student.
+Free and Subscription base Web Application
 
 Things you may want to cover:
 
