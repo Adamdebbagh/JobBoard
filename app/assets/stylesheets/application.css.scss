@@ -1,5 +1,4 @@
-//-----------IMPORTS
-@import "bootstrap-sprockets";
-@import "bootstrap";
-@import "font-awesome";
-@import "pages";
+/*
+*= require_tree .
+*= require_self
+*/
