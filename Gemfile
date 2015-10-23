@@ -29,6 +29,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #  Use Figaro to hide secret keys
 gem 'figaro', '~> 1.1', '>= 1.1.1'
 gem 'stripe', '~> 1.30', '>= 1.30.2'
+
+# Use paperClip
+gem 'paperclip', '~> 4.3', '>= 4.3.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
